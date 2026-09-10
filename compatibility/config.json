@@ -14,8 +14,8 @@
   "probSpousal": 0.4897,
   "probFemale": 0.409,
   "probSpousalPraCompatibility": 0.75,
-  "numberOfInstances": 10,
-  "patientsPerInstance": 100,
+  "numberOfInstances": 8,
+  "patientsPerInstance": 160,
   "proportionAltruistic": 0,
   "fileFormat": "json",
   "donorBtDistribution": {
